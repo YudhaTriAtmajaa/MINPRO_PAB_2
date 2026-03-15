@@ -1,5 +1,5 @@
 # Aplikasi Manajemen Toko Baju Muslim 
-
+ 
 Aplikasi manajemen produk berbasis Flutter untuk pengelolaan toko busana muslim. Aplikasi ini memungkinkan pemilik toko untuk mengelola katalog produk, memantau dan memperbarui stok, serta mengatur akun pengguna secara mandiri. Seluruh data disimpan secara real-time menggunakan Supabase sebagai backend.
 
 ---
