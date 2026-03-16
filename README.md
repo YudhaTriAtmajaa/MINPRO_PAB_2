@@ -113,6 +113,3 @@ lib/
 - `INTERNET` - Untuk koneksi ke Supabase.
 
 ---
-
-## Dokumentasi Aplikasi
-- 
